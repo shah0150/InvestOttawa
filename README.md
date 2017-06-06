@@ -17,8 +17,6 @@ json-server --watch investottawa.json
 
 Open a browser
 
-http://localhost:3000
-
 http://localhost:3000/companys
 
 http://localhost:3000/companys/{1..1652}
