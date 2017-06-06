@@ -5,7 +5,7 @@
 Grab all of the required node modules for this api.
 
 ```
-npm install
+sudo npm install -g json-server
 ```
 This step is done once.
 
